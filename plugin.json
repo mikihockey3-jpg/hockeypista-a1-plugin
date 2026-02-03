@@ -1,0 +1,16 @@
+{
+  "id": "hockeypista-seriea1",
+  "version": "0.0.1",
+  "description": "Plugin fantasy per Hockey Pista Serie A1 (Italia)",
+  "files": [
+    "https://raw.githubusercontent.com/mikihockey3-jpg/hockeypista-plugin/main/plugin/HockeyPistaA1/index.ts",
+    "https://raw.githubusercontent.com/mikihockey3-jpg/hockeypista-plugin/main/plugin/HockeyPistaA1/types.d.ts"
+  ],
+  "input": [
+    {
+      "variant": "string",
+      "name": "season",
+      "description": "Stagione del campionato (es: 2024/2025)"
+    }
+  ]
+}
