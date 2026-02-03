@@ -1,6 +1,6 @@
 {
   "id": "hockeypista-a1",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Plugin per la Serie A1 di Hockey Pista (fantasy)",
   "files": [
     "https://raw.githubusercontent.com/mikihockey3-jpg/hockeypista-a1-plugin/main/index.ts",
