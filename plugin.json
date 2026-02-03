@@ -1,7 +1,7 @@
 {
   "id": "hockeypista-a1",
-  "version": "1.0.2",
-  "description": "Plugin per la Serie A1 di Hockey Pista (fantasy)",
+  "version": "1.0.5",
+  "description": "Plugin per creare leghe Serie A1 Hockey Pista con database personalizzato",
   "files": [
     "https://raw.githubusercontent.com/mikihockey3-jpg/hockeypista-a1-plugin/main/index.ts",
     "https://raw.githubusercontent.com/mikihockey3-jpg/hockeypista-a1-plugin/main/types.d.ts"
@@ -10,7 +10,7 @@
     {
       "variant": "string",
       "name": "sample",
-      "description": "Esempio di input per il plugin"
+      "description": "Input di esempio per impostazioni future"
     }
   ]
 }
